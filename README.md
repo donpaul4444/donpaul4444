@@ -41,7 +41,7 @@ Footwear-focused e-commerce web application
 - 
 🔗 Live Demo:https://footwear-frontend-vert.vercel.app/
 
-🔗 GitHub Repo:https://github.com/donpaul4444/paadhukam
+🔗 GitHub Repo:https://github.com/donpaul4444/padhukam
 
 ---
 
