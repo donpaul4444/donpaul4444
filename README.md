@@ -31,8 +31,17 @@ Modern task & team management app (Jira-lite)
 
 ---
 
-## 📊 GitHub Stats
-(You can add GitHub stats cards here)
+### 🔹 Paadhukam  
+Footwear-focused e-commerce web application
+- Product listing & filtering  
+- Add to cart functionality  
+- Order placement system  
+- Secure backend integration  
+- Responsive UI
+- 
+🔗 Live Demo:https://footwear-frontend-vert.vercel.app/
+
+🔗 GitHub Repo:https://github.com/donpaul4444/paadhukam
 
 ---
 
