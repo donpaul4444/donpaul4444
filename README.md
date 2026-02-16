@@ -25,8 +25,8 @@ Modern task & team management app (Jira-lite)
 - MongoDB + Mongoose
 - Zustand / Redux
 
-🔗 Live Demo:
-🔗 GitHub Repo:
+🔗 Live Demo:https://tasknest-woad.vercel.app/
+🔗 GitHub Repo:https://github.com/donpaul4444/tasknest
 
 ---
 
