@@ -1,0 +1,41 @@
+# Hi 👋, I'm Don Paul
+
+🚀 MERN Stack Developer  
+💻 Passionate about building scalable web apps  
+🌱 Currently learning: Advanced React, Docker  
+🎯 Goal: Remote React/Fullstack Developer Role  
+
+---
+
+## 🛠️ Tech Stack
+- Frontend: React.js, Next.js, TypeScript, Tailwind
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Tools: Git, Docker
+
+---
+
+## 🚀 Projects
+
+### 🔹 TaskNest
+Modern task & team management app (Jira-lite)
+- Auth (Google)
+- Protected Routes
+- REST API
+- MongoDB + Mongoose
+- Zustand / Redux
+
+🔗 Live Demo:
+🔗 GitHub Repo:
+
+---
+
+## 📊 GitHub Stats
+(You can add GitHub stats cards here)
+
+---
+
+## 📫 Connect With Me
+LinkedIn:
+Portfolio:
+
