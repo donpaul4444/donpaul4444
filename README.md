@@ -26,6 +26,7 @@ Modern task & team management app (Jira-lite)
 - Zustand / Redux
 
 🔗 Live Demo:https://tasknest-woad.vercel.app/
+
 🔗 GitHub Repo:https://github.com/donpaul4444/tasknest
 
 ---
@@ -36,6 +37,7 @@ Modern task & team management app (Jira-lite)
 ---
 
 ## 📫 Connect With Me
-LinkedIn:
-Portfolio:
+LinkedIn:https://www.linkedin.com/in/don-paul-9395777a/
+
+Portfolio:https://portfolio-nu-dun-89.vercel.app/
 
